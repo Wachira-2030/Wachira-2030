@@ -20,7 +20,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1129235/screenshots/11119956/media/0ed2f1fafc01796836f58027975ef866.gif" width="600" height="400"/>
+  <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" width="600" height="400"/>
 </div>
 ---
 
